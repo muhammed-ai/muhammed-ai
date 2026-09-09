@@ -10,7 +10,7 @@ reliable production systems across Azure and AWS.
 ## What I Build
 
 - Cloud infrastructure with Terraform and Bicep
-- Kubernetes platforms with AKS
+- Kubernetes platforms with AKS and EKS
 - CI/CD pipelines with Azure DevOps and GitHub Actions
 - GitOps workflows with ArgoCD
 - Production observability with Prometheus, Grafana, Azure Monitor,
