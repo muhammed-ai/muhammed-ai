@@ -11,9 +11,9 @@ reliable production systems across Azure and AWS.
 
 - Cloud infrastructure with Terraform and Bicep
 - Kubernetes platforms with AKS and EKS
-- CI/CD pipelines with Azure DevOps and GitHub Actions
+- CI/CD pipelines with Azure DevOps and GitHub Actions Jenkins
 - GitOps workflows with ArgoCD
-- Production observability with Prometheus, Grafana, Azure Monitor,
+- Production observability with Prometheus, Grafana, Azure Monitor, DataDog,
   Splunk, AppDynamics and OpenTelemetry
 - Cloud security and infrastructure automation
 - AI-assisted engineering and agentic DevOps workflows
