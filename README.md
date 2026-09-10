@@ -53,6 +53,7 @@ Prometheus • Grafana • Splunk • OpenTelemetry
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 **Cloud & IaC**
 
