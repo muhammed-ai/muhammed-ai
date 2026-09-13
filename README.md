@@ -16,12 +16,11 @@
 - AI-assisted engineering and agentic DevOps workflows
 
 ##  🛠️ Tech Stack
+---
 Azure • AWS • Terraform • Kubernetes • AKS • Docker • Helm • ArgoCD
 GitHub Actions • Azure DevOps • Python • PowerShell
 Prometheus • Grafana • Splunk • OpenTelemetry
 .NET • C# • AI Agents • MCP
-
----
 
 
 
