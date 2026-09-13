@@ -1,12 +1,10 @@
 <h1 align="center">Muhammed Ibrahim</h1>
 
 <p align="center">
-  <b>Senior DevOps Engineer &nbsp;·&nbsp; Consultant &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE &nbsp;·&nbsp; AWS Expert &nbsp;·&nbsp; Cloud Infrastructure Engineer</b><br/>
+  <b>Senior AWS | Azure DevOps Engineer &nbsp;·&nbsp; Consultant &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE &nbsp;·&nbsp; AWS Expert &nbsp;·&nbsp; Cloud Infrastructure &nbsp;·&nbsp; AI Engineer</b><br/>
   9+ years building highly available, secure, and cost-effective cloud infrastructure
 </p>
 
-
-### Senior DevOps / Cloud Platform Engineer
 
 Azure | AWS | Kubernetes | Terraform | CI/CD | SRE | AI Engineering
 
