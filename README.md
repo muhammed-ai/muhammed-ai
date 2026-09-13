@@ -1,18 +1,11 @@
 <h1 align="center">Muhammed Ibrahim</h1>
 
 <p align="center">
-  <b>Senior AWS | Azure DevOps Engineer &nbsp;·&nbsp; Consultant &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE &nbsp;·&nbsp; AWS Expert &nbsp;·&nbsp; Cloud Infrastructure &nbsp;·&nbsp; AI Engineer</b><br/>
-  9+ years building highly available, secure, and cost-effective cloud infrastructure
+  <b>Senior Azure DevOps Engineer &nbsp;·&nbsp; Consultant &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Cloud Infrastructure &nbsp;·&nbsp; AI Engineer</b><br/>
+  10+ years building highly available, secure, and cost-effective cloud infrastructure
 </p>
 
-
-Azure | AWS | Kubernetes | Terraform | CI/CD | SRE | AI Engineering
-
-I design and automate cloud infrastructure, deployment platforms, and
-reliable production systems across Azure and AWS.
-
 ## What I Build
-
 - Cloud infrastructure with Terraform and Bicep
 - Kubernetes platforms with AKS and EKS
 - CI/CD pipelines with Azure DevOps and GitHub Actions Jenkins
