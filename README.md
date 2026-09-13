@@ -15,7 +15,7 @@
 - Cloud security and infrastructure automation
 - AI-assisted engineering and agentic DevOps workflows
 
-## Core Technologies
+##  🛠️ Tech Stack
 Azure • AWS • Terraform • Kubernetes • AKS • Docker • Helm • ArgoCD
 GitHub Actions • Azure DevOps • Python • PowerShell
 Prometheus • Grafana • Splunk • OpenTelemetry
@@ -23,7 +23,7 @@ Prometheus • Grafana • Splunk • OpenTelemetry
 
 ---
 
-## 🛠️ Tech Stack
+
 
 **Languages**
 
