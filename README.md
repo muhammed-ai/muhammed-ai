@@ -36,10 +36,9 @@ I'm a senior DevOps and platform engineer specializing in Kubernetes platforms, 
 
 ## Featured Projects
 
-<!-- TODO: Link real repos, reference architectures, blog posts, or talks. Examples: -->
-- **[Reference AKS Platform](REPO_URL)** — Production-grade AKS baseline with Terraform, ArgoCD, and observability wired in.
-- **[Terraform Modules](REPO_URL)** — Reusable, tested IaC modules for Azure and AWS.
-- **[Blog / Write-ups](BLOG_URL)** — Deep dives on GitOps, DR, and platform engineering.
+- **[Three-Tier App on AWS EKS](https://github.com/muhammed-ai/three-tier-app-eks)** — Production-ready React/Express/MySQL app on EKS with a full DevSecOps CI/CD pipeline, environment promotion, Terraform IaC, and Prometheus/Grafana observability.
+- **[AWS Streaming Platform](https://github.com/muhammed-ai/aws-streaming-platform)** — Cloud-native video streaming platform (Terraform) using Lambda, API Gateway, CloudFront, Cognito, MediaConvert, and WAF, with signed-URL delivery and VPC network isolation.
+- **[Production Cloud Platform](https://github.com/muhammed-ai/production-cloud-platform)** — Azure DevOps pipelines including an AI-assisted pull-request review workflow.
 
 ## Certifications
 
