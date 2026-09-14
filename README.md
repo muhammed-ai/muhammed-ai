@@ -28,11 +28,10 @@ I'm a senior DevOps and platform engineer specializing in Kubernetes platforms, 
 
 ## Selected Impact
 
-<!-- TODO: Replace these with your real, quantified achievements. These are placeholders. -->
-- **Cost:** Reduced AKS/EKS spend by _XX%_ through right-sizing, spot/node pools, and autoscaling.
-- **Delivery:** Cut deployment lead time from _X days_ to _X minutes_ with GitOps and ArgoCD.
-- **Reliability:** Designed multi-region DR with _<XX min_ RTO / _<XX min_ RPO.
-- **Observability:** Rolled out Prometheus/Grafana + OpenTelemetry across _N_ services, cutting MTTR by _XX%_.
+- **Cost:** Reduced AKS/EKS spend through right-sizing, spot/node pools, and autoscaling.
+- **Delivery:** Shortened deployment lead time with GitOps and ArgoCD.
+- **Reliability:** Designed multi-region disaster recovery with tight RTO/RPO targets.
+- **Observability:** Rolled out Prometheus/Grafana and OpenTelemetry to cut mean time to resolution.
 - **Security:** Introduced OIDC-based keyless CI/CD and policy-as-code, eliminating long-lived cloud credentials.
 
 ## Featured Projects
