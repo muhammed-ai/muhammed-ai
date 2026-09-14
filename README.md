@@ -43,10 +43,17 @@ I'm a senior DevOps and platform engineer specializing in Kubernetes platforms, 
 
 ## Certifications
 
-<!-- TODO: List real certs. Examples for senior DevOps roles: -->
-- Azure Solutions Architect Expert / DevOps Engineer Expert
-- AWS Solutions Architect
-- Certified Kubernetes Administrator (CKA) / Application Developer (CKAD)
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect_–_Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-E30613?style=flat-square&logo=comptia&logoColor=white)
+![Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CompTIA Linux+](https://img.shields.io/badge/CompTIA_Linux%2B-E30613?style=flat-square&logo=comptia&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services (2023)
+- **CompTIA Security+** — CompTIA (2024, valid through 2027)
+- **Microsoft Certified: Azure Administrator Associate** — Microsoft (2023)
+- **CompTIA Linux+** — CompTIA (2021)
+- **CCNA** — Cisco (2021)
 
 ## Core Tech Stack
 Azure • AWS • Terraform • Bicep • Kubernetes (AKS/EKS) • Docker • Helm • ArgoCD
