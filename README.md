@@ -1,7 +1,7 @@
 <h1 align="center">Muhammed Ibrahim</h1>
 
 <p align="center">
-  <b>Senior Azure DevOps Engineer &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE</b><br/>
+  <b>Senior Azure DevOps Engineer &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE &nbsp;·&nbsp; AI Engineer</b><br/>
   10+ years building highly available, secure, and cost-effective cloud infrastructure on Azure & AWS
 </p>
 
