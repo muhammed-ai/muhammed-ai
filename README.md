@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-ibrahim-814a0610a">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:muhammedibrahim1716@gmail.com">Email</a>
+  <a href="mailto:muhammedabdulmajid317@gmail.com">Email</a>
 </p>
 
 ---
